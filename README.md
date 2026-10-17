@@ -39,5 +39,5 @@ An **Artificial Intelligence Undergraduate** passionate about Machine Learning, 
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [Sadia Saleem](www.linkedin.com/in/sadiasaleem-ai)
+- 💼 **LinkedIn:** [Sadia Saleem](https://www.linkedin.com/in/sadiasaleem-ai)
 - 📧 **Contact:** `...(not yet)...`
