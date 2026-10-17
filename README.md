@@ -1,4 +1,4 @@
-# Hi there, I'm Sadia1 👋
+# Hi there, I'm Sadia! 👋
 
 An **Artificial Intelligence Undergraduate** passionate about Machine Learning, Computer Vision, Software Engineering and AI Robotics to make animatronics/robots.
 
